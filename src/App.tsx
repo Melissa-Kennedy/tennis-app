@@ -1,25 +1,43 @@
 import React from 'react';
-import logo from './logo.svg';
+import { BrowserRouter as Router, Routes, Route, useNavigate } from 'react-router-dom';
+import MapComponent from './components/Map/MapContainer';
+import InfoPage from './components/InfoPage/InfoPage';
+import AddressList from './components/AddressList/AddressList';
+import { Address } from './types/Address';
+import addressesData from './data/addresses.json';
 import './App.css';
+
+const addresses: Address[] = addressesData;
+
+function MapPage() {
+  const navigate = useNavigate();
+  
+  const handlePinClick = (address: Address) => {
+    navigate(`/info/${address.id}`);
+  };
+  
+  return (
+    <div className="map-page">
+      <div className="sidebar">
+        <AddressList addresses={addresses} onAddressClick={handlePinClick} />
+      </div>
+      <div className="map-container">
+        <MapComponent addresses={addresses} onPinClick={handlePinClick} />
+      </div>
+    </div>
+  );
+}
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className="App">
+        <Routes>
+          <Route path="/" element={<MapPage />} />
+          <Route path="/info/:id" element={<InfoPage addresses={addresses} />} />
+        </Routes>
+      </div>
+    </Router>
   );
 }
 

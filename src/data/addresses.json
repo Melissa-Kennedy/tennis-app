@@ -1,0 +1,1043 @@
+[
+  {
+    "id": "1",
+    "name": "Albion Gardens Park",
+    "address": "41 Deanlea Ct, Etobicoke, ON M9V 2R5", 
+    "latitude": 43.73963409469502, 
+    "longitude": -79.55901397214502,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+
+  {
+    "id": "2",
+    "name": "Amesbury Park",
+    "address": "Toronto, ON M6L 1B6", 
+    "latitude": 43.70703543166644, 
+    "longitude": -79.48348698480393,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "3",
+    "name": "Ancaster Park",
+    "address": "43 Ancaster Rd, North York, ON M3K 1K8", 
+    "latitude": 43.733945206478765,  
+    "longitude": -79.46575276050679,
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "4",
+    "name": "Angela James Arena - Tennis Court Area",
+    "address": "165 Grenoble Dr, North York, ON M3C 1C1", 
+    "latitude": 43.71330824921499,  
+    "longitude": -79.32765274516306,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "5",
+    "name": "Antibes Community Centre",
+    "address": "140 Antibes Dr, North York, ON M2R 3J3", 
+    "latitude": 43.781400574436,  
+    "longitude": -79.44676581845962,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "1"
+  },
+  {
+    "id": "6",
+    "name": "Balmoral Park",
+    "address": "170 Faywood Blvd, North York, ON M3H 6A2", 
+    "latitude": 43.74516403400656,  
+    "longitude": -79.44971088748939,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "8",
+    "name": "Bayview Village Park",
+    "address": "2945 Bayview Ave, North York, ON M2K 1L6", 
+    "latitude": 43.77308556683636,  
+    "longitude": -79.38729871632444,
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "9",
+    "name": "Beaumonde Heights Park",
+    "address": "17 Waltham Dr, Etobicoke, ON M9V 1S6", 
+    "latitude": 43.740390884898545,  
+    "longitude": -79.572571345455,
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "10",
+    "name": "Bestview Park",
+    "address": "115 Bestview Dr, North York, ON M2M 2Y3", 
+    "latitude": 43.80270725684054, 
+    "longitude": -79.38375672228679,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "11",
+    "name": "Birch Park",
+    "address": "75 Arcadian Cir, Etobicoke, ON M8W 2Z5", 
+    "latitude": 43.602517882291224,
+    "longitude": -79.5312005161736, 
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "12",
+    "name": "Birchmount Park",
+    "address": "93 Birchmount Rd, Scarborough, ON M1N 2G2", 
+    "latitude": 43.69708988333267, 
+    "longitude": -79.2594145322084,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "13",
+    "name": "Bloordale Park South",
+    "address": "230 Renforth Dr, Etobicoke, ON M9C 2B7", 
+    "latitude": 43.635704615007086, 
+    "longitude": -79.56898775865785,
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "14",
+    "name": "Buttonwood Park",
+    "address": "30 Mulham Pl, Etobicoke, ON M9A 4W1", 
+    "latitude": 43.68239918300765,  
+    "longitude": -79.51890339913065,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "15",
+    "name": "Cedarvale Park",
+    "address": "Cedarvale Park, 443 Arlington Ave, Toronto, ON M6C 3A2", 
+    "latitude": 43.69287894916758,  
+    "longitude": -79.43192283026369,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "16",
+    "name": "Chalkfarm Park",
+    "address": "2230 Jane St, North York, ON M3L 2J1", 
+    "latitude": 43.72381870728364, 
+    "longitude": -79.51514058749031,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "17",
+    "name": "Champlain Parkette",
+    "address": "Champlain Parkette, 50 Champlain Blvd, Toronto, ON M3H, 50 Champlain Blvd, Toronto, ON", 
+    "latitude": 43.732528214220714, 
+    "longitude": -79.44351170283447,
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "18",
+    "name": "Clairlea Park",
+    "address": "45 Fairfax Crescent, Toronto, ON M1L 1Z6", 
+    "latitude": 43.71397616729451,  
+    "longitude": -79.2887908523087,
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "19",
+    "name": "Cliffwood Park",
+    "address": "280 Cliffwood Rd, North York, ON M2H 2S7", 
+    "latitude": 43.808672165816226,  
+    "longitude": -79.35463661514572,
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "20",
+    "name": "Cloverdale Park",
+    "address": "63 Shaver Ave S, Etobicoke, ON M9B 3T6", 
+    "latitude": 43.633574215449336, 
+    "longitude": -79.54551683313625,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "21",
+    "name": "Coleman Park",
+    "address": "19 Coleman Ave, Toronto, ON M4C 1P8", 
+    "latitude": 43.68956452011696,  
+    "longitude": -79.29944790855788,
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "22",
+    "name": "Cummer Park",
+    "address": "6000 Leslie St, North York, ON M2H 1N9", 
+    "latitude": 43.799971714571264, 
+    "longitude": -79.37213239476067,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "23",
+    "name": "Dovercourt Park",
+    "address": "155 Fernbank Ave, Toronto, ON M6H 3A2", 
+    "latitude": 43.665334959576306, 
+    "longitude": -79.43349723328298,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "24",
+    "name": "Earlscourt Park",
+    "address": "Lansdowne Ave, Toronto, ON M6H 3Z8", 
+    "latitude": 43.67419670896124, 
+    "longitude": -79.45136940680325,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "1"
+  },
+  {
+    "id": "25",
+    "name": "East Mall Park",
+    "address": "355 The East Mall, Etobicoke, ON M9B 3Z7", 
+    "latitude": 43.64249409573892, 
+    "longitude": -79.55732035865758 ,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "26",
+    "name": "Eglinton Flats",
+    "address": "3601 Eglinton Ave W, York, ON M6M 1V7", 
+    "latitude": 43.68436718502741,  
+    "longitude": -79.49471060098352,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "13"
+  },
+  {
+    "id": "27",
+    "name": "Eglinton Park",
+    "address": "200 Eglinton Ave W, Toronto, ON M4R 1C3", 
+    "latitude": 43.70757266108976, 
+    "longitude": -79.40528244516325,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "28",
+    "name": "Elie Wiesel Park",
+    "address": "30 Palm Dr, North York, ON M3H 2B5", 
+    "latitude": 43.74567398499309,  
+    "longitude": -79.4380138874894,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "29",
+    "name": "Fairmount Park",
+    "address": "1725 Gerrard St E, Toronto, ON M4L 2A9", 
+    "latitude": 43.677057271117754, 
+    "longitude": -79.31572508487704,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "30",
+    "name": "Fenside Park",
+    "address": "30 Slidell Crescent, North York, ON M3A 2C4", 
+    "latitude": 43.76477601345488, 
+    "longitude": -79.32690434517224 ,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "31",
+    "name": "Firgrove Park",
+    "address": "254 Firgrove Crescent, North York, ON M3N 1K8", 
+    "latitude": 43.75218426813324, 
+    "longitude": -79.52112418748914,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "32",
+    "name": "Flagstaff Park",
+    "address": "42 Mercury Rd, Etobicoke, ON M9W 3H5", 
+    "latitude": 43.72132344032613, 
+    "longitude": -79.5906190433097,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "34",
+    "name": "Glen Park",
+    "address": "35 Glen Long Ave, North York, ON M6B 2M1", 
+    "latitude": 43.70924771472099,  
+    "longitude": -79.45578895311283,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "35",
+    "name": "Glendora Park",
+    "address": "197 Avondale Ave, North York, ON M2N 2V4", 
+    "latitude": 43.76114709518645,  
+    "longitude": -79.39797479938099,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "36",
+    "name": "Goulding Park",
+    "address": "45 Goulding Ave, North York, ON M2M 1K8", 
+    "latitude": 43.79107644084723, 
+    "longitude": -79.42275211882864,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "37",
+    "name": "Gracedale Park",
+    "address": "176 Gracedale Blvd, North York, ON M9L 1A6", 
+    "latitude": 43.752497189024645,  
+    "longitude": -79.56221578748911,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "38",
+    "name": "Grandravine Park",
+    "address": "Sentinel Rd &, Grandravine Dr, Toronto, ON M3J 1T3", 
+    "latitude": 43.75265635667032,  
+    "longitude": -79.49175060653708,
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "39",
+    "name": "Graydon Hall Park",
+    "address": "215 Graydon Hall Dr, North York, ON M3A 3A6", 
+    "latitude": 43.763140771388855, 
+    "longitude": -79.34225569611682,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "40",
+    "name": "Gwendolen Park",
+    "address": "3 Gwendolen Crescent, North York, ON M2N 2L7", 
+    "latitude": 43.75154777013558, 
+    "longitude": -79.41992840283375,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "1"
+  },
+  {
+    "id": "41",
+    "name": "Hendon Park",
+    "address": "50 Hendon Ave, Toronto, ON M2M 1A2", 
+    "latitude": 43.781166346945234, 
+    "longitude": -79.42058438748788,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "42",
+    "name": "High Park",
+    "address": "11 Colborne Lodge Dr, Toronto, ON M6S 0A4", 
+    "latitude": 43.6507549265561,  
+    "longitude": -79.46434340963121,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "7"
+  },
+  {
+    "id": "43",
+    "name": "Howard Talbot Park",
+    "address": "635 Eglinton Ave E, East York, ON M4G 2K3", 
+    "latitude": 43.71081497523561, 
+    "longitude": -79.37350117399933, 
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "44",
+    "name": "Hullmar Park",
+    "address": "Hullmar Park, 97 Hullmar Dr, North York, ON M3N 1R1", 
+    "latitude": 43.764865787066604,  
+    "longitude": -79.52549314330784,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "45",
+    "name": "Humber Valley Park",
+    "address": "54 Anglesey Blvd, Toronto, ON M9A 3B5", 
+    "latitude": 43.664845688353154,  
+    "longitude": -79.52581061632888,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "46",
+    "name": "Indian Line Park",
+    "address": "655 Humberwood Blvd, Etobicoke, ON M3V 7H4", 
+    "latitude": 43.7252058846339, 
+    "longitude": -79.62241270098184,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "47",
+    "name": "Irving W. Chapley Park",
+    "address": "205 Wilmington Ave, Toronto, ON M3H 6B3", 
+    "latitude": 43.76185763752121,  
+    "longitude": -79.45584285865259,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "48",
+    "name": "Jeff Healey Park",
+    "address": "1 Delroy Dr, Etobicoke, ON M8Y 1M7", 
+    "latitude": 43.63088405473006,  
+    "longitude": -79.49592941447735,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "49",
+    "name": "Jimmie Simpson Park",
+    "address": "872 Queen St E, Toronto, ON M4M 1H9", 
+    "latitude": 43.66137822634154,  
+    "longitude": -79.34477194516519,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "50",
+    "name": "Jonathan Ashbridge Park",
+    "address": "20 Woodward Ave, Toronto, ON M4L 1A7", 
+    "latitude": 43.66491538821794, 
+    "longitude": -79.31960334516505,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "51",
+    "name": "Kingsview Park",
+    "address": "46 Kingsview Blvd, Etobicoke, ON M9R 1T8", 
+    "latitude": 43.703190107206524, 
+    "longitude": -79.55183711332135, 
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "52",
+    "name": "Kirkwood Park",
+    "address": "25 Kirkwood Rd, North York, ON M2L 2E9", 
+    "latitude": 43.756138756592044,  
+    "longitude": -79.36144674330816,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "53",
+    "name": "Laburnham Park",
+    "address": "Laburnham Park, 23 Evergreen Ave, Etobicoke, ON M8W 3A3", 
+    "latitude": 43.600499965422074, 
+    "longitude": -79.52826211818463, 
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "54",
+    "name": "Lakeshore Boulevard Parklands",
+    "address": "1275 Lake Shore Blvd W, Toronto, ON M6K 3C1", 
+    "latitude": 43.63367284548578, 
+    "longitude": -79.43798687161238,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "4"
+  },
+  {
+    "id": "55",
+    "name": "Lambton - Kingsway Park",
+    "address": "37 Marquis Ave, Etobicoke, ON M8X 1V1", 
+    "latitude": 43.657595550799385, 
+    "longitude":-79.5075165163292,
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "56",
+    "name": "Lanyard Park",
+    "address": "138 Lanyard Rd, Toronto, ON M9M 1Z3", 
+    "latitude": 43.74777931225474,  
+    "longitude": -79.54857938748924,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "57",
+    "name": "Malvern Park",
+    "address": "36 Sewells Rd, Scarborough, ON M1B 3G5", 
+    "latitude": 43.809373277489975,  
+    "longitude": -79.21718530283128,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "58",
+    "name": "Manchester Park",
+    "address": "68 Bluewater Ct, Etobicoke, ON M8V 4A9", 
+    "latitude": 43.62097417388708, 
+    "longitude": -79.49002581633073, 
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "59",
+    "name": "Maple Leaf Park",
+    "address": "320 Culford Rd, Toronto, ON M6L 2V7", 
+    "latitude": 43.718438834859455,  
+    "longitude": -79.49239245388195,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "60",
+    "name": "Martingrove Gardens Park",
+    "address": "31 Lavington Dr, Toronto, ON M9R 2H3", 
+    "latitude": 43.68969240371886, 
+    "longitude":-79.56352637615932,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "61",
+    "name": "McDairmid Woods Park",
+    "address": "51 Rubic Crescent, Scarborough, ON M1S 4Y2", 
+    "latitude": 43.7801472475572, 
+    "longitude": -79.26750205679885,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "62",
+    "name": "McGregor Park",
+    "address": "2231 Lawrence Ave E, Scarborough, ON M1P 2P5", 
+    "latitude": 43.74683202794493, 
+    "longitude": -79.28011468934237,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "63",
+    "name": "Mcnicoll Park",
+    "address": "215 McNicoll Ave, North York, ON M2H 2C4", 
+    "latitude": 43.79930508731465,  
+    "longitude": -79.35266547584861,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "64",
+    "name": "Mill Valley Park",
+    "address": "412 Mill Rd, Toronto, ON M9C", 
+    "latitude": 43.643672517281594, 
+    "longitude": -79.58776536447684,
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "65",
+    "name": "Millwood Park",
+    "address": "4370 Bloor St W, Toronto, ON M9C 2A4", 
+    "latitude": 43.63139884609827, 
+    "longitude": -79.57837440098571, 
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "66",
+    "name": "Moore Park - North York",
+    "address": "110 Cactus Ave, North York, ON M2R 2V4", 
+    "latitude": 43.791912007632085, 
+    "longitude": -79.43557310071935, 
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "67",
+    "name": "Moss Park",
+    "address": "150 Sherbourne St, Toronto, ON M5A 1R9", 
+    "latitude": 43.655137082482504,
+    "longitude":  -79.37216007491821,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "1"
+  },
+  {
+    "id": "68",
+    "name": "North Park",
+    "address": "587 Rustic Rd, North York, ON M6L 2L1", 
+    "latitude": 43.72017019480342, 
+    "longitude": -79.47373781668198,
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "69",
+    "name": "Norwood Park",
+    "address": "16 Norwood Rd, Toronto, ON M4E 2R8", 
+    "latitude": 43.68253251753346,  
+    "longitude": -79.30274646681788,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "5"
+  },
+  {
+    "id": "70",
+    "name": "Oriole Park - Toronto",
+    "address": "201 Oriole Pkwy, Toronto, ON M5P 2H1", 
+    "latitude": 43.69753048395374,  
+    "longitude": -79.40000488749143,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "71",
+    "name": "Ourland Park",
+    "address": "36 Ourland Ave, Etobicoke, ON M8Z 4E1", 
+    "latitude": 43.61597352147952,  
+    "longitude": -79.50883946051168,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "72",
+    "name": "Park Lawn Park",
+    "address": "340 Park Lawn Rd, Etobicoke, ON M8Y 1Z15", 
+    "latitude": 43.639088560739154,  
+    "longitude": -79.49483415865771,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "73",
+    "name": "Pelmo Park",
+    "address": "171 Pellatt Ave, North York, ON M9N 2M1", 
+    "latitude": 43.71320040434271,  
+    "longitude": -79.51765581632688,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "74",
+    "name": "Pine Point Park",
+    "address": "4 Conan Rd, Etobicoke, ON M9W 3S7", 
+    "latitude": 43.711657303719605,  
+    "longitude": -79.54856541447396,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "75",
+    "name": "Prairie Drive Park",
+    "address": "70 Prairie Dr, Scarborough, ON M1L 1L5", 
+    "latitude": 43.69744265501447,  
+    "longitude": -79.28421584169652,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "76",
+    "name": "Prince of Wales Park",
+    "address": "1 Third St, Etobicoke, ON M8V 2X5", 
+    "latitude": 43.59922416373401,  
+    "longitude": -79.49880067400402,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "78",
+    "name": "Queensway Park",
+    "address": "8 Avon Park Dr, Etobicoke, ON M8Z 3X4", 
+    "latitude": 43.627031891897175,  
+    "longitude":-79.50694858749439,
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "1"
+  },
+  {
+    "id": "80",
+    "name": "Ramsden Park",
+    "address": "1020 Yonge St & Ramsden Park Rd, Toronto, ON M4W 1P7", 
+    "latitude": 43.676566725261594, 
+    "longitude": -79.39318994516465, 
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "12"
+  },
+  {
+    "id": "81",
+    "name": "Riverdale Park East",
+    "address": "Broadview Ave At, Millbrook Crescent, Toronto, ON M4K", 
+    "latitude": 43.672129891591354,  
+    "longitude": -79.35573874542104,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "7"
+  },
+  {
+    "id": "82",
+    "name": "Rockford Park",
+    "address": "70 Rockford Rd, North York, ON M2R 3A7", 
+    "latitude": 43.786861967134065,  
+    "longitude": -79.45371339912624,
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "83",
+    "name": "Rotary Peace Park",
+    "address": "25 Eleventh St, Etobicoke, ON M8V 2A7", 
+    "latitude": 43.594018106865946,  
+    "longitude": -79.50588024516803,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "84",
+    "name": "Royal Crest Park",
+    "address": "50 Cabernet Cir, Toronto, ON M9V 5A3", 
+    "latitude": 43.75313291646449,  
+    "longitude": -79.6051143739975,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "85",
+    "name": "Roywood Park",
+    "address": "2 Roywood Dr, North York, ON M3A 2C7", 
+    "latitude": 43.76482479072245,  
+    "longitude": -79.32048448378255,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "86",
+    "name": "Ruddington Park",
+    "address": "75 Ruddington Dr, Toronto, ON M2K 2J9", 
+    "latitude": 43.792531016264824,  
+    "longitude": -79.38907752981513,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "87",
+    "name": "Runnymede Park",
+    "address": "221 Ryding Ave, Toronto, ON M6N 1H6", 
+    "latitude": 43.6688542952116, 
+    "longitude":-79.4788416028372,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "88",
+    "name": "Sentinel Park",
+    "address": "295 Sentinel Rd, Toronto, ON M3J 0H4", 
+    "latitude": 43.75535685881967,  
+    "longitude": -79.49890411632514,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "89",
+    "name": "Shawnee Park",
+    "address": "81 Shawnee Cir, Toronto, ON M2H 2X9", 
+    "latitude": 43.79711185451851,
+    "longitude":  -79.33837992456101, 
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "4"
+  },
+  {
+    "id": "90",
+    "name": "Sir Adam Beck Park",
+    "address": "10 Orianna Dr, Toronto, ON M8W 2J3", 
+    "latitude": 43.60268602377769,  
+    "longitude":-79.54868077585685,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "91",
+    "name": "Sorauren Avenue Park",
+    "address": "289 Sorauren Ave, Toronto, ON M6R 2G4", 
+    "latitude": 43.64888153906889,  
+    "longitude": -79.44331344516576,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "92",
+    "name": "Stanley Greene Park",
+    "address": "Stanley Greene Blvd, Toronto, ON M3K", 
+    "latitude": 43.73469030918256,  
+    "longitude": -79.47746626050683,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "93",
+    "name": "Stanley Park",
+    "address": "890 King St W, Toronto, ON M5V 1P2", 
+    "latitude": 43.643098550374674,  
+    "longitude": -79.40966733167443,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "94",
+    "name": "Stanley Park South - Toronto",
+    "address": "700 Wellington St W, Toronto, ON M5V 1G7", 
+    "latitude": 43.641801229798666,  
+    "longitude": -79.40807516446542,
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "95",
+    "name": "Strathburn Park",
+    "address": "55 Strathburn Blvd, Toronto, ON M9M 2K7", 
+    "latitude": 43.722186260792604,  
+    "longitude": -79.53273721632648, 
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "96",
+    "name": "Summerlea Park",
+    "address": "2 Arcot Blvd, Toronto, ON M9W 2P2", 
+    "latitude": 43.73129278210781, 
+    "longitude": -79.54770224312362,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "97",
+    "name": "Sunnydale Acres Park",
+    "address": "50 Amoro Dr, Etobicoke, ON M9W 3L4", 
+    "latitude": 43.72530439776168, 
+    "longitude": -79.57803198563732, 
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "98",
+    "name": "Sunnylea Park",
+    "address": "195 Prince Edward Dr S, Etobicoke, ON M8Y 3X1", 
+    "latitude": 43.641689625707414, 
+    "longitude": -79.50164468749372, 
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "99",
+    "name": "Sweeney Park",
+    "address": "110 Sweeney Dr, North York, ON M4A", 
+    "latitude": 43.735938162168445, 
+    "longitude": -79.31550022981754, 
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "100",
+    "name": "Symington Avenue Playground",
+    "address": "Symington Avenue Playground, 360 Symington Ave, Toronto, ON M6P 3W9", 
+    "latitude": 43.666649299700985,  
+    "longitude": -79.45191953523651,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "101",
+    "name": "Topham Park",
+    "address": "181 Westview Blvd, East York, ON M4B 1Z9", 
+    "latitude": 43.70998610022587,
+    "longitude":  -79.30676794763673, 
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "102",
+    "name": "Trinity Bellwoods Park",
+    "address": "790 Queen St W, Toronto, ON M6J 1G3", 
+    "latitude": 43.6474532659415,  
+    "longitude": -79.41371387400193,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "8"
+  },
+  {
+    "id": "103",
+    "name": "Wedgewood Park - Etobicoke",
+    "address": "Swan Ave, Toronto, ON M9B 1V1", 
+    "latitude": 43.64988637485131,  
+    "longitude": -79.5465931760338,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "1"
+  },
+  {
+    "id": "104",
+    "name": "Wedgewood Park - North York",
+    "address": "145 Wedgewood Dr, Toronto, ON M2M 2H6", 
+    "latitude": 43.795433165280684,  
+    "longitude": -79.40649069879044,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "105",
+    "name": "Westgrove Park",
+    "address": "15 Redgrave Dr, Etobicoke, ON M9R 3T9", 
+    "latitude": 43.68225114913847,  
+    "longitude": -79.5677084740005,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "106",
+    "name": "Westmount Park",
+    "address": "22 Arcade Dr, Etobicoke, ON M9P 2V9", 
+    "latitude": 43.68787203580212, 
+    "longitude": -79.51854166050872,
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "107",
+    "name": "Westway Park",
+    "address": "175 The Westway, Etobicoke, ON M9P 1L6", 
+    "latitude": 43.687862350858154, 
+    "longitude":  -79.54153858749189,
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "108",
+    "name": "Withrow Park and Clubhouse",
+    "address": "725 Logan Ave, Toronto, ON M4K 3B9", 
+    "latitude": 43.674613747452796,  
+    "longitude": -79.34682381447547,
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  }
+]

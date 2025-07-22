@@ -1,0 +1,758 @@
+[
+  {
+    "id": "1",
+    "location": "Albion Gardens Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "2",
+    "location": "Amesbury Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "3",
+    "location": "Ancaster Park",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "4",
+    "location": "Angela James Arena - Tennis Court Area",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "5",
+    "location": "Antibes Community Centre",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "1"
+  },
+  {
+    "id": "6",
+    "location": "Balmoral Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "7",
+    "location": "Baycrest Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "8",
+    "location": "Bayview Village Park",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "9",
+    "location": "Beaumonde Heights Park",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "10",
+    "location": "Bestview Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "11",
+    "location": "Birch Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "12",
+    "location": "Birchmount Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "13",
+    "location": "Bloordale Park South",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "14",
+    "location": "Buttonwood Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "15",
+    "location": "Cedarvale Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "16",
+    "location": "Chalkfarm Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "17",
+    "location": "Champlain Parkette",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "18",
+    "location": "Clairlea Park",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "19",
+    "location": "Cliffwood Park",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "20",
+    "location": "Cloverdale Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "21",
+    "location": "Coleman Park",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "22",
+    "location": "Cummer Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "23",
+    "location": "Dovercourt Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "24",
+    "location": "Earlscourt Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "1"
+  },
+  {
+    "id": "25",
+    "location": "East Mall Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "26",
+    "location": "Eglinton Flats",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "13"
+  },
+  {
+    "id": "27",
+    "location": "Eglinton Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "28",
+    "location": "Elie Wiesel Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "29",
+    "location": "Fairmount Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "30",
+    "location": "Fenside Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "31",
+    "location": "Firgrove Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "32",
+    "location": "Flagstaff Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "33",
+    "location": "Gihon Spring Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "34",
+    "location": "Glen Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "35",
+    "location": "Glendora Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "36",
+    "location": "Goulding Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "37",
+    "location": "Gracedale Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "38",
+    "location": "Grandravine Park",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "39",
+    "location": "Graydon Hall Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "40",
+    "location": "Gwendolen Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "1"
+  },
+  {
+    "id": "41",
+    "location": "Hendon Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "42",
+    "location": "High Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "7"
+  },
+  {
+    "id": "43",
+    "location": "Howard Talbot Park",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "44",
+    "location": "Hullmar Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "45",
+    "location": "Humber Valley Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "46",
+    "location": "Indian Line Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "47",
+    "location": "Irving W. Chapley Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "48",
+    "location": "Jeff Healey Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "49",
+    "location": "Jimmie Simpson Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "50",
+    "location": "Jonathan Ashbridge Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "51",
+    "location": "Kingsview Park",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "52",
+    "location": "Kirkwood Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "53",
+    "location": "Laburnham Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "54",
+    "location": "Lakeshore Boulevard Parklands",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "4"
+  },
+  {
+    "id": "55",
+    "location": "Lambton - Kingsway Park",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "56",
+    "location": "Lanyard Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "57",
+    "location": "Malvern Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "58",
+    "location": "Manchester Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "59",
+    "location": "Maple Leaf Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "60",
+    "location": "Martingrove Gardens Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "61",
+    "location": "McDairmid Woods Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "62",
+    "location": "McGregor Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "63",
+    "location": "Mcnicoll Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "64",
+    "location": "Mill Valley Park",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "65",
+    "location": "Millwood Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "66",
+    "location": "Moore Park - North York",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "67",
+    "location": "Moss Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "1"
+  },
+  {
+    "id": "68",
+    "location": "North Park",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "69",
+    "location": "Norwood Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "5"
+  },
+  {
+    "id": "70",
+    "location": "Oriole Park - Toronto",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "71",
+    "location": "Ourland Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "72",
+    "location": "Park Lawn Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "73",
+    "location": "Pelmo Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "74",
+    "location": "Pine Point Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "75",
+    "location": "Prairie Drive Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "76",
+    "location": "Prince of Wales Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "77",
+    "location": "Princess Anne Park",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "78",
+    "location": "Queensway Park",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "1"
+  },
+  {
+    "id": "79",
+    "location": "Queensway Park",
+    "winterplay": "No",
+    "lights": "",
+    "courts": "1"
+  },
+  {
+    "id": "80",
+    "location": "Ramsden Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "12"
+  },
+  {
+    "id": "81",
+    "location": "Riverdale Park East",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "7"
+  },
+  {
+    "id": "82",
+    "location": "Rockford Park",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "83",
+    "location": "Rotary Peace Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "84",
+    "location": "Royal Crest Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "85",
+    "location": "Roywood Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "86",
+    "location": "Ruddington Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "87",
+    "location": "Runnymede Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "88",
+    "location": "Sentinel Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "89",
+    "location": "Shawnee Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "4"
+  },
+  {
+    "id": "90",
+    "location": "Sir Adam Beck Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "91",
+    "location": "Sorauren Avenue Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "92",
+    "location": "Stanley Greene Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "93",
+    "location": "Stanley Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "3"
+  },
+  {
+    "id": "94",
+    "location": "Stanley Park South - Toronto",
+    "winterplay": "No",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "95",
+    "location": "Strathburn Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "96",
+    "location": "Summerlea Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "97",
+    "location": "Sunnydale Acres Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "98",
+    "location": "Sunnylea Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "99",
+    "location": "Sweeney Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "100",
+    "location": "Symington Avenue Playground",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "101",
+    "location": "Topham Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "102",
+    "location": "Trinity Bellwoods Park",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "8"
+  },
+  {
+    "id": "103",
+    "location": "Wedgewood Park - Etobicoke",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "1"
+  },
+  {
+    "id": "104",
+    "location": "Wedgewood Park - North York",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  },
+  {
+    "id": "105",
+    "location": "Westgrove Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "2"
+  },
+  {
+    "id": "106",
+    "location": "Westmount Park",
+    "winterplay": "Yes",
+    "lights": "Yes",
+    "courts": "3"
+  },
+  {
+    "id": "107",
+    "location": "Westway Park",
+    "winterplay": "No",
+    "lights": "Yes",
+    "courts": "4"
+  },
+  {
+    "id": "108",
+    "location": "Withrow Park and Clubhouse",
+    "winterplay": "Yes",
+    "lights": "No",
+    "courts": "2"
+  }
+]
