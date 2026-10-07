@@ -1,0 +1,33 @@
+.stamp {
+  display: block;
+  width: 100%;
+  height: auto;
+  transform: rotate(var(--stamp-rotation, 0deg));
+  opacity: 0.86;
+  mix-blend-mode: multiply;
+}
+
+.stamp-animate {
+  animation: stamp-thunk 0.55s cubic-bezier(0.2, 0.9, 0.3, 1.2) both;
+}
+
+@keyframes stamp-thunk {
+  0% {
+    opacity: 0;
+    transform: rotate(var(--stamp-rotation, 0deg)) scale(2.2);
+  }
+  60% {
+    opacity: 0.9;
+    transform: rotate(var(--stamp-rotation, 0deg)) scale(0.94);
+  }
+  100% {
+    opacity: 0.86;
+    transform: rotate(var(--stamp-rotation, 0deg)) scale(1);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .stamp-animate {
+    animation: none;
+  }
+}

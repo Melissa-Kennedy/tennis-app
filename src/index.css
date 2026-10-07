@@ -1,13 +1,47 @@
+:root {
+  --green-900: #12301f;
+  --green-700: #1f5a3a;
+  --green-600: #2a7048;
+  --green-100: #e3efe6;
+  --ball: #d9e85b;
+  --clay: #c8643b;
+  --ink: #1d2420;
+  --muted: #5d6a63;
+  --line: #dde3df;
+  --surface: #ffffff;
+  --background: #f4f6f2;
+  --danger: #b3261e;
+  --navy: #1c2a46;
+  --gold: #d4b25f;
+  --paper: #f7f1e1;
+  --paper-ink: #3a3326;
+  --radius: 12px;
+  --shadow: 0 1px 2px rgba(18, 48, 31, 0.06), 0 6px 20px rgba(18, 48, 31, 0.08);
+  --nav-height: 60px;
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-mono: 'IBM Plex Mono', Menlo, Consolas, monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  background: var(--background);
+  color: var(--ink);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+button,
+input,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: var(--font-mono);
 }

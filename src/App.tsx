@@ -1,43 +1,57 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, useNavigate } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Navigate, useNavigate, useParams } from 'react-router-dom';
 import MapComponent from './components/Map/MapContainer';
-import InfoPage from './components/InfoPage/InfoPage';
 import AddressList from './components/AddressList/AddressList';
+import CourtPage from './components/CourtPage/CourtPage';
+import NavBar from './components/Layout/NavBar';
+import PassportPage from './components/Passport/PassportPage';
+import { PassportProvider, usePassport } from './context/PassportContext';
+import { courts } from './data/courts';
 import { Address } from './types/Address';
-import addressesData from './data/addresses.json';
 import './App.css';
-
-const addresses: Address[] = addressesData;
 
 function MapPage() {
   const navigate = useNavigate();
-  
+  const { visits } = usePassport();
+
   const handlePinClick = (address: Address) => {
-    navigate(`/info/${address.id}`);
+    navigate(`/court/${address.id}`);
   };
-  
+
   return (
-    <div className="map-page">
-      <div className="sidebar">
-        <AddressList addresses={addresses} onAddressClick={handlePinClick} />
-      </div>
+    <main className="map-page">
+      <aside className="sidebar">
+        <AddressList addresses={courts} visits={visits} onAddressClick={handlePinClick} />
+      </aside>
       <div className="map-container">
-        <MapComponent addresses={addresses} onPinClick={handlePinClick} />
+        <MapComponent addresses={courts} visits={visits} onPinClick={handlePinClick} />
       </div>
-    </div>
+    </main>
   );
+}
+
+/** Keeps old /info/:id links working */
+function LegacyInfoRedirect() {
+  const { id } = useParams<{ id: string }>();
+  return <Navigate to={`/court/${id}`} replace />;
 }
 
 function App() {
   return (
-    <Router>
-      <div className="App">
-        <Routes>
-          <Route path="/" element={<MapPage />} />
-          <Route path="/info/:id" element={<InfoPage addresses={addresses} />} />
-        </Routes>
-      </div>
-    </Router>
+    <PassportProvider>
+      <Router>
+        <div className="App">
+          <NavBar />
+          <Routes>
+            <Route path="/" element={<MapPage />} />
+            <Route path="/court/:id" element={<CourtPage />} />
+            <Route path="/passport" element={<PassportPage />} />
+            <Route path="/info/:id" element={<LegacyInfoRedirect />} />
+            <Route path="*" element={<Navigate to="/" replace />} />
+          </Routes>
+        </div>
+      </Router>
+    </PassportProvider>
   );
 }
 
